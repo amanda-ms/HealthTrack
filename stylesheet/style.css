@@ -12,6 +12,7 @@ html, body{
 .home-title{
   font-size: 1.4em;
   color: #fff;
+  margin-bottom: 20px;
 }
 
 .home-rgba{
@@ -31,4 +32,10 @@ html, body{
 
 .text-white{
   color: #fff;
+}
+
+.input-ghost{
+  background: transparent;
+  color: #fff;
+  border-radius: 10px;
 }
